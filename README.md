@@ -6,4 +6,4 @@
 
 Задача может исеть три статуса completed (NEW,IN_PROGRESS,DONE)
 
-Для заупсков Unit-тестов для проверки функциональности приложения выполнить команду test в maven TaskManagement Lifecycle
+Для заупсков Unit-тестов для проверки функциональности приложения выполнить команду test в maven TaskManagement Lifecycle либо команду "Run 'All Tests' with Coverage" в модуле task-server
